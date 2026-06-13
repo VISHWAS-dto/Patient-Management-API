@@ -248,15 +248,6 @@ git commit -m "Add amazing feature"
 git push origin feature/amazing-feature
 ```
 
----
-
-## 📄 License
-
-```
-MIT License — feel free to use, modify, and distribute.
-```
-
----
 
 <div align="center">
 
